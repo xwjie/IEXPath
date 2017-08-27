@@ -1,7 +1,7 @@
 # IEXPath
 给公司测试同事做的一个IE下获取对象的XPath工具，支持32和64位
 
-[点击下载最新版本](https://github.com/xwjie/IEXPath/blob/master/release/IEXPath.rar)
+[点击下载最新版本](https://github.com/xwjie/IEXPath/blob/master/release/IEXPath.rar?raw=true)
 
 # 当前最新版本
 1.0，发布时间：2017.08.27
